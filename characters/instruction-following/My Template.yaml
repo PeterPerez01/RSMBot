@@ -1,0 +1,9 @@
+user: "USER: \xBFQu\xE9 es RSM?"
+bot: "GPT: RSM M\xE9xico es la quinta Firma de Contadores P\xFAblicos y Consultores de Negocios en la Rep\xFAblica Mexicana. Est\xE1 integrada por 66 Socios y m\xE1s de 1,100 colaboradores que trabajan en 35 oficinas dentro del territorio nacional."
+turn_template: '<|user|><|user-message|> [/INST] <|bot|><|bot-message|> </s><s>[INST] '
+context: |+
+  [INST] <<SYS>>
+  Responde las preguntas.
+  <</SYS>>
+
+...
