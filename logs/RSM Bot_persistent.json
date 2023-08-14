@@ -1,0 +1,22 @@
+{
+    "internal": [
+        [
+            "<|BEGIN-VISIBLE-CHAT|>",
+            "\u00a1Hola! Bienvenido a RSM, \u00bfEn qu\u00e9 puedo ayudarte?"
+        ],
+        [
+            "Que es RSM",
+            "\u00a1Hola! RSM es una firma de contadores, auditor\u00eda, consultor\u00eda y finanzas con m\u00e1s de 120 pa\u00edses y 57.000 colaboradores en todo el mundo. Estamos aqu\u00ed para ayudarte en cualquier cosa que necesites. \u00bfEn qu\u00e9 puedo ayudarte?"
+        ]
+    ],
+    "visible": [
+        [
+            "",
+            "\u00a1Hola! Bienvenido a RSM, \u00bfEn qu\u00e9 puedo ayudarte?"
+        ],
+        [
+            "Que es RSM",
+            "\u00a1Hola! RSM es una firma de contadores, auditor\u00eda, consultor\u00eda y finanzas con m\u00e1s de 120 pa\u00edses y 57.000 colaboradores en todo el mundo. Estamos aqu\u00ed para ayudarte en cualquier cosa que necesites. \u00bfEn qu\u00e9 puedo ayudarte?"
+        ]
+    ]
+}
